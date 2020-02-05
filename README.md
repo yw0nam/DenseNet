@@ -1,4 +1,4 @@
-# Basic DenseNet implement using TF 2.0 using Mnist
+# DenseNet implement using TF 2.0
 
 ## What is DenseNet?
 
